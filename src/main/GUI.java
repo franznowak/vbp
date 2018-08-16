@@ -1,4 +1,4 @@
-package uk.ac.cam.fgn24.tuberlin.vbp;
+package main;
 
 import java.awt.EventQueue;
 import java.awt.Graphics;

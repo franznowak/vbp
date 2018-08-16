@@ -1,4 +1,4 @@
-package uk.ac.cam.fgn24.tuberlin.vbp;
+package main;
 
 public class TooSmall extends Exception {
 	/**

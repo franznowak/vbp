@@ -1,4 +1,4 @@
-# vbp
+# Virtual Biprism - a Simulation Tool for Electron Holography using Transmission Electron Microscopes
 Virtual Biprism Simulation Software, used for creating simulations of electron holographic experiments.
 
 This software was used among other things to generate simulations for the following publication:
